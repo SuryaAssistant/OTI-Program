@@ -1,2 +1,2 @@
-# Arduino-OTA-Programming
-Uploading code to Arduino board via internet
+# Microcontroller Programming over-the-internet
+Uploading code to Microcontroller board via internet
